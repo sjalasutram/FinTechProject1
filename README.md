@@ -28,13 +28,13 @@ World Bank provides data from hundreds of countries and regions around the world
 
 - https://data.nasdaq.com/databases/WB/data
 
-[United States](data/WB_DATA_USA.csv)
-[Nigeria](data/WB_DATA_NGA.csv)
-[China](data/WB_DATA_CHN.csv)
-[Saudi Arabia](data/WB_DATA_SAU.csv)
-[Germany](data/WB_DATA_DEU.csv)
-[Brazil](data/WB_DATA_BRA.csv)
-[Australia](data/WB_DATA_AUS.csv)
+* [United States](data/WB_DATA_USA.csv)
+* [Nigeria](data/WB_DATA_NGA.csv)
+* [China](data/WB_DATA_CHN.csv)
+* [Saudi Arabia](data/WB_DATA_SAU.csv)
+* [Germany](data/WB_DATA_DEU.csv)
+* [Brazil](data/WB_DATA_BRA.csv)
+* [Australia](data/WB_DATA_AUS.csv)
 
 * [Electricity production from coal sources (% of total)](data/data_EG_ELC_COAL_ZS.csv)
 * [Electricity production from hydroelectric sources (% of total)](data/data_EG_ELC_HYRO_ZS.csv)
