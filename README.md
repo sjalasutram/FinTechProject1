@@ -36,13 +36,13 @@ World Bank provides data from hundreds of countries and regions around the world
 [Brazil](data/WB_DATA_BRA.csv)
 [Australia](data/WB_DATA_AUS.csv)
 
-[Electricity production from coal sources (% of total)](data/data_EG_ELC_COAL_ZS.csv)
-[Electricity production from hydroelectric sources (% of total)](data/data_EG_ELC_HYRO_ZS.csv)
-[Electricity production from natural gas sources (% of total)](data/data_EG_ELC_NGAS_ZS.csv)
-[Electricity production from nuclear sources (% of total)](data/data_EG_ELC_NUCL_ZS.csv)
-[Electricity production from oil sources (% of total)](data/data_EG_ELC_PETR_ZS.csv)
-[Electricity production from renewable sources, excluding hydroelectric (% of total)](data/data_EG_ELC_RNWX_ZS.csv)
-[Electricity production from renewable sources, excluding hydroelectric (kWh)](data/data_EG_ELC_RNWX_KH.csv)
+* [Electricity production from coal sources (% of total)](data/data_EG_ELC_COAL_ZS.csv)
+* [Electricity production from hydroelectric sources (% of total)](data/data_EG_ELC_HYRO_ZS.csv)
+* [Electricity production from natural gas sources (% of total)](data/data_EG_ELC_NGAS_ZS.csv)
+* [Electricity production from nuclear sources (% of total)](data/data_EG_ELC_NUCL_ZS.csv)
+* [Electricity production from oil sources (% of total)](data/data_EG_ELC_PETR_ZS.csv)
+* [Electricity production from renewable sources, excluding hydroelectric (% of total)](data/data_EG_ELC_RNWX_ZS.csv)
+* [Electricity production from renewable sources, excluding hydroelectric (kWh)](data/data_EG_ELC_RNWX_KH.csv)
 
 ---
 
