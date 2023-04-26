@@ -3,7 +3,7 @@
 ---
 
 ### Objective
-The project analyzes various social and economic categorical data, between the years 1960 and 2015, percentage of Agricultural land area, Food Production Index, Carbon Dioxide emissions (in Kilotons), Electricity Production (as a percentage of total) from sources such as Coal, Natural Gas, Nuclear, Hydroelectric, Oil, Renewable sources, Government expenditure on education and the percentage of population that use Internet in the leading economies around the world. For the pupose of the project, the analysis is based on the following countries:
+The project analyzes various social and economic categorical data, between the years 1960 and 2015, percentage of Agricultural land area, Food Production Index, Carbon Dioxide emissions (in Kilotons), Electricity Production (as a percentage of total) from sources such as Coal, Natural Gas, Nuclear, Hydroelectric, Oil, Renewable sources, Government expenditure on education and the percentage of population that use Internet in the leading economies around the world. For the pupose of the project, the analysis is based on the following countries: (sourced from [Wisevoter](https://wisevoter.com/country-rankings/largest-economies-in-the-world/) )
 - United States
 - Nigeria
 - China
@@ -12,6 +12,28 @@ The project analyzes various social and economic categorical data, between the y
 - Brazil
 - Australia
 ---
+
+### Metadata
+World bank provided data for the countries and regions across the world in several different categories. The categories are termed as series_id in the world bank metadata.
+For the purpose of this project, the following series_ids were used in analysis
+
+|Series_Id         | Meaning                                                            |
+|------------------|--------------------------------------------------------------------|
+|AG.LND.AGRI.ZS	   | Agricultural land (% of land area)                                 |
+|AG.PRD.FOOD.XD	   | Food production index (2014-2016 = 100)                            |
+|EN.ATM.CO2E.KT	   | CO2 emissions (kt)                                                 |
+|EG.ELC.COAL.ZS	   | Electricity production from coal sources (% of total)              |
+|EG.ELC.HYRO.ZS	   | Electricity production from hydroelectric sources (% of total)     |
+|EG.ELC.NGAS.ZS	   | Electricity production from natural gas sources (% of total)       |
+|EG.ELC.NUCL.ZS	   | Electricity production from nuclear sources (% of total)           |
+|EG.ELC.PETR.ZS	   | Electricity production from oil sources (% of total)               |
+|EG.ELC.RNWX.KH	   | Electricity production from renewable sources,                     |
+|                  | excluding hydroelectric (kWh)                                      |
+|EG.ELC.RNWX.ZS	   | Electricity production from renewable sources,                     |
+|                  | excluding hydroelectric (% of total)                               |
+|IT.NET.USER.ZS	   | Individuals using the Internet (% of population)                   |
+|SE.XPD.TOTL.GD.ZS | Government expenditure on education, total (% of GDP)              |
+
 
 ### Research Questions
 Using the categories data between 1960 and 2015, this project work attempts to find answers to the questions below
@@ -54,9 +76,24 @@ World Bank provides data from hundreds of countries and regions around the world
 ---
 
 ## Observations
-1.
-2.
-3.
-4.
-5.
+1. Is there a correlation between Agricultural land and Carbon Dioxide emissions?
+2. What is the trend on electricity production from renewable sources across the leading economies?
+    
+   While Germany is leading the race to become a 'green' country (produce 26% of electricity from
+   renewable sources), countries like Saudi Arabia are still relying on fossil fuels to meet 
+   electricity demand. The race to use renewable sources to generate electricity has certainly
+   started gathering momentum from the late 1990s and the trend has been mostly ticking upwards.
 
+3. Which country has the least and most of its population using the Internet
+4. Is there a correlation between Government expenditure on education and internet usage?
+5. Which countries have the lowest and highest ratio of Agricultural land to food production comparisons
+
+6. Which country has most electricity produced from renewable sources (as a % of total electricity)
+   Denmark produced 65% of its total electricity from renewable sources
+
+## Future State
+To improve upon this project, the following ideas may be considered
+1. Identify how much of C02 emissions are from liquid fuel consumption vs. gaseous fuel
+2. Is there a correlation between greenhouse gas emissions and livestock production index
+3. If the mortality rate per country related to the number of people using Internet
+4. How has access to electricity influenced school enrollments
