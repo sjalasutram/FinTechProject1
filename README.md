@@ -23,12 +23,14 @@ For the purpose of this project, the following series_ids were used in analysis
 |AG.PRD.FOOD.XD	   | Food production index (2014-2016 = 100)                            |
 |EN.ATM.CO2E.KT	   | CO2 emissions (kt)                                                 |
 |EG.ELC.COAL.ZS	   | Electricity production from coal sources (% of total)              |
-|EG.ELC.FOSL.ZS	   | Electricity production from oil, gas and coal sources (% of total) |
 |EG.ELC.HYRO.ZS	   | Electricity production from hydroelectric sources (% of total)     |
-|EG.ELC.LOSS.ZS	   | Electric power transmission and distribution losses (% of output)  |
 |EG.ELC.NGAS.ZS	   | Electricity production from natural gas sources (% of total)       |
 |EG.ELC.NUCL.ZS	   | Electricity production from nuclear sources (% of total)           |
 |EG.ELC.PETR.ZS	   | Electricity production from oil sources (% of total)               |
+|EG.ELC.RNWX.KH	   | Electricity production from renewable sources,                     |
+|                  | excluding hydroelectric (kWh)                                      |
+|EG.ELC.RNWX.ZS	   | Electricity production from renewable sources,                     |
+|                  | excluding hydroelectric (% of total)                               |
 |IT.NET.USER.ZS	   | Individuals using the Internet (% of population)                   |
 |SE.XPD.TOTL.GD.ZS | Government expenditure on education, total (% of GDP)              |
 
