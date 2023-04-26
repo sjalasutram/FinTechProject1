@@ -74,11 +74,20 @@ World Bank provides data from hundreds of countries and regions around the world
 ---
 
 ## Observations
-1.
-2.
-3.
-4.
-5.
+1. Is there a correlation between Agricultural land and Carbon Dioxide emissions?
+2. What is the trend on electricity production from renewable sources across the leading economies?
+    
+   While Germany is leading the race to become a 'green' country (produce 26% of electricity from
+   renewable sources), countries like Saudi Arabia are still relying on fossil fuels to meet 
+   electricity demand. The race to use renewable sources to generate electricity has certainly
+   started gathering momentum from the late 1990s and the trend has been mostly ticking upwards.
+   
+3. Which country has the least and most of its population using the Internet
+4. Is there a correlation between Government expenditure on education and internet usage?
+5. Which countries have the lowest and highest ratio of Agricultural land to food production comparisons
+
+6. Which country has most electricity produced from renewable sources (as a % of total electricity)
+   Denmark produced 65% of its total electricity from renewable sources
 
 ## Future State
 To improve upon this project, the following ideas may be considered
