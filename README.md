@@ -18,7 +18,7 @@ World bank provided data for the countries and regions across the world in sever
 For the purpose of this project, the following series_ids were used in analysis
 
 |Series_Id         | Meaning                                                            |
-|=======================================================================================|
+|------------------|--------------------------------------------------------------------|
 |AG.LND.AGRI.ZS	   | Agricultural land (% of land area)                                 |
 |AG.PRD.FOOD.XD	   | Food production index (2014-2016 = 100)                            |
 |EN.ATM.CO2E.KT	   | CO2 emissions (kt)                                                 |
