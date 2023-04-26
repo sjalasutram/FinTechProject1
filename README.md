@@ -16,20 +16,21 @@ The project analyzes various social and economic categorical data, between the y
 ### Metadata
 World bank provided data for the countries and regions across the world in several different categories. The categories are termed as series_id in the world bank metadata.
 For the purpose of this project, the following series_ids were used in analysis
-Series_Id           Meaning
-====================================================================================
-AG.LND.AGRI.ZS	    Agricultural land (% of land area)
-AG.PRD.FOOD.XD	    Food production index (2014-2016 = 100)
-EN.ATM.CO2E.KT	    CO2 emissions (kt)
-EG.ELC.COAL.ZS	    Electricity production from coal sources (% of total)
-EG.ELC.FOSL.ZS	    Electricity production from oil, gas and coal sources (% of total)
-EG.ELC.HYRO.ZS	    Electricity production from hydroelectric sources (% of total)
-EG.ELC.LOSS.ZS	    Electric power transmission and distribution losses (% of output)
-EG.ELC.NGAS.ZS	    Electricity production from natural gas sources (% of total)
-EG.ELC.NUCL.ZS	    Electricity production from nuclear sources (% of total)
-EG.ELC.PETR.ZS	    Electricity production from oil sources (% of total)
-IT.NET.USER.ZS	    Individuals using the Internet (% of population)
-SE.XPD.TOTL.GD.ZS	Government expenditure on education, total (% of GDP)
+
+|Series_Id         | Meaning                                                            |
+|=======================================================================================|
+|AG.LND.AGRI.ZS	   | Agricultural land (% of land area)                                 |
+|AG.PRD.FOOD.XD	   | Food production index (2014-2016 = 100)                            |
+|EN.ATM.CO2E.KT	   | CO2 emissions (kt)                                                 |
+|EG.ELC.COAL.ZS	   | Electricity production from coal sources (% of total)              |
+|EG.ELC.FOSL.ZS	   | Electricity production from oil, gas and coal sources (% of total) |
+|EG.ELC.HYRO.ZS	   | Electricity production from hydroelectric sources (% of total)     |
+|EG.ELC.LOSS.ZS	   | Electric power transmission and distribution losses (% of output)  |
+|EG.ELC.NGAS.ZS	   | Electricity production from natural gas sources (% of total)       |
+|EG.ELC.NUCL.ZS	   | Electricity production from nuclear sources (% of total)           |
+|EG.ELC.PETR.ZS	   | Electricity production from oil sources (% of total)               |
+|IT.NET.USER.ZS	   | Individuals using the Internet (% of population)                   |
+|SE.XPD.TOTL.GD.ZS | Government expenditure on education, total (% of GDP)              |
 
 
 ### Research Questions
