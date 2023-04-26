@@ -3,7 +3,7 @@
 ---
 
 ### Objective
-The project analyzes various social and economic categorical data, between the years 1960 and 2015, percentage of Agricultural land area, Food Production Index, Carbon Dioxide emissions (in Kilotons), Electricity Production (as a percentage of total) from sources such as Coal, Natural Gas, Nuclear, Hydroelectric, Oil, Renewable sources, Government expenditure on education and the percentage of population that use Internet in the leading economies around the world. For the pupose of the project, the analysis is based on the following countries:
+The project analyzes various social and economic categorical data, between the years 1960 and 2015, percentage of Agricultural land area, Food Production Index, Carbon Dioxide emissions (in Kilotons), Electricity Production (as a percentage of total) from sources such as Coal, Natural Gas, Nuclear, Hydroelectric, Oil, Renewable sources, Government expenditure on education and the percentage of population that use Internet in the leading economies around the world. For the pupose of the project, the analysis is based on the following countries: (sourced from [Wisevoter](https://wisevoter.com/country-rankings/largest-economies-in-the-world/) )
 - United States
 - Nigeria
 - China
@@ -81,7 +81,7 @@ World Bank provides data from hundreds of countries and regions around the world
    renewable sources), countries like Saudi Arabia are still relying on fossil fuels to meet 
    electricity demand. The race to use renewable sources to generate electricity has certainly
    started gathering momentum from the late 1990s and the trend has been mostly ticking upwards.
-   
+
 3. Which country has the least and most of its population using the Internet
 4. Is there a correlation between Government expenditure on education and internet usage?
 5. Which countries have the lowest and highest ratio of Agricultural land to food production comparisons
