@@ -80,3 +80,9 @@ World Bank provides data from hundreds of countries and regions around the world
 4.
 5.
 
+## Future State
+To improve upon this project, the following ideas may be considered
+1. Identify how much of C02 emissions are from liquid fuel consumption vs. gaseous fuel
+2. Is there a correlation between greenhouse gas emissions and livestock production index
+3. If the mortality rate per country related to the number of people using Internet
+4. How has access to electricity influenced school enrollments
