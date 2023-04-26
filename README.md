@@ -77,6 +77,7 @@ World Bank provides data from hundreds of countries and regions around the world
 
 ## Observations
 1. Is there a correlation between Agricultural land and Carbon Dioxide emissions?
+
 2. What is the trend on electricity production from renewable sources across the leading economies?
     
    While Germany is leading the race to become a 'green' country (produce 26% of electricity from
@@ -85,8 +86,12 @@ World Bank provides data from hundreds of countries and regions around the world
    started gathering momentum from the late 1990s and the trend has been mostly ticking upwards.
 
 3. Which country has the least and most of its population using the Internet
+
 4. Is there a correlation between Government expenditure on education and internet usage?
+
 5. Which countries have the lowest and highest ratio of Agricultural land to food production comparisons
+   The country with highest ratio of Agricultural land and Food Production is United States.
+   Agricultural Land is 44% and Food Production Index is at 104.45
 
 6. Which country has most electricity produced from renewable sources (as a % of total electricity)
    Denmark produced 65% of its total electricity from renewable sources
