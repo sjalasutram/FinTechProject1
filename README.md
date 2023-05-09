@@ -78,6 +78,12 @@ World Bank provides data from hundreds of countries and regions around the world
 ## Observations
 1. Is there a correlation between Agricultural land and Carbon Dioxide emissions?
 
+    Based on United States data, when CO2 emissions increased the percentage of agricultural land   
+    decreased. The same thing occured in Austrailia as well. From the years
+    2000 to 2014, the percentage of agricultural land dropped from 60% to 46% while the CO2 emiisions 
+    increased from 34e^4 Kilotons to as high as 39e^4 kilotons. Based off the two countries it can be  
+    seen that emissions and agricultural land are directly related.
+    
 2. What is the trend on electricity production from renewable sources across the leading economies?
     
    While Germany is leading the race to become a 'green' country (produce 26% of electricity from
@@ -85,10 +91,17 @@ World Bank provides data from hundreds of countries and regions around the world
    electricity demand. The race to use renewable sources to generate electricity has certainly
    started gathering momentum from the late 1990s and the trend has been mostly ticking upwards.
 
-3. Which country has the least and most of its population using the Internet
+3. Which country has the least and most of its population using the Internet?
 
+    Saudi Arabia has the highest population of internet users with 100% of its population being connected 
+    while Nigeria has the lowest from the list with only a mere 35% being connected with the internet.
+    
 4. Is there a correlation between Government expenditure on education and internet usage?
 
+    There doesn't seem to be a direct correlation with government expenditures on education and internet 
+    usage. Over the years, internet usage has increased drastically across all the countries whereas the 
+    amount spent on education has stayed relatively the same and in some cases dropped between the years.
+    
 5. Which countries have the lowest and highest ratio of Agricultural land to food production comparisons?
 
    The country with highest ratio of Agricultural land and Food Production is United States.
